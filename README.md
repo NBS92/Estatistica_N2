@@ -8,7 +8,9 @@
 4. Há alguns materiais disponíveis sobre análise descritiva de dados, a maioria da área de estatística, que podem ser consultados sem qualquer problema; 
 5. O livro texto dessa disciplina tem muitas dicas importantes e exemplos; 
 6. A primeira e segunda questão valem 3.0 pontos. A terceira questão vale 2.0 pontos. A quarta e quinta questão valem, cada uma, 1.0 ponto. 
-7. Considere a base de dados Fires, que apresenta dados meteorológicos para previsão de incêndios florestais em um parque, e que é composta por 517 objetos e 13 atributos. Serão utilizados cinco atributos, sendo dois categóricos (Mês e Dia) e três numéricos (DMC, DC e ISI). 
+7. Considere a base de dados Fires, que apresenta dados meteorológicos para previsão de incêndios florestais em um parque, e que é composta por 517 objetos e 13 atributos.
+  
+Serão utilizados cinco atributos, sendo dois categóricos (Mês e Dia) e três numéricos (DMC, DC e ISI). 
 
 # **🟢 Exercício 1. Distribuições de frequência** 
 
