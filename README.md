@@ -32,35 +32,54 @@ programa. Assuma que a quantidade de classes é uma constante ou variável.
 • Note que as Tabelas 3.6 e 3.7 apresentam os resumos das distribuições de frequência dos atributos DMC e DC, respectivamente; 
 • Observe que não é necessário incluir a coluna "Fronteiras". 
 
-**🟢 Exercício 2. Visualização de dados** 
+# **🟢 Exercício 2. Visualização de dados** 
 *Especificação:* 
+
 Para cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI), gere os seguintes gráficos: (i) histogramas das frequências relativas e absolutas; (ii) gráfico de polígonos; (iii) gráfico de setores; (iv) gráfico de Pareto; (v) gráfico de dispersão entre cada dois atributos, ou seja, DMC x Dia, DMC x Mês, DMC x DC, DMC x ISI, DC x Dia, DC x Mês, DC x ISI, ISI x Dia, ISI x Mês, Dia x Mês. Além dos gráficos, inclua comentários sobre as informações obtidas pelas análises dos gráficos, deixando claro o gráfico e a informação obtida. 
 
-*Entregável:* implemente um programa que, baseado nos dados, plote os gráficos definidos acima. Os comentários sobre as informações obtidas pelas análises dos gráficos devem ser enviados em um arquivo PDF à parte. 
+*Entregável:* 
 
-**🟢 Exercício 3. Medidas Resumo** 
+Implemente um programa que, baseado nos dados, plote os gráficos definidos acima. Os comentários sobre as informações obtidas pelas análises dos gráficos devem ser enviados em um arquivo PDF à parte. 
 
-*Especificação:* gere as medidas de tendência central (média, moda (quando for o caso), ponto médio e mediana), dispersão (amplitude, desvio padrão, variância, coeficiente de 
-variação) e forma (assimetria e curtose), para cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI). 
-
-*Entregável:* implemente um programa que calcule e imprima a tabela contendo todas as informações acima. 
-
-**⚠️ Observação:** a impressão da tabela pode ser em uma única tabela ou em três tabelas separadas. 
-
-**🟢 Exercício 4. Diagrama de Caixa (box plot)** 
+# **🟢 Exercício 3. Medidas Resumo** 
 
 *Especificação:* 
-imprima os diagramas de caixa (box plot) de cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI). 
 
-*Entregável:* implemente um programa que calcule e imprima os diagramas de caixa (box plot) de cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI). Comente sobre a 
-variabilidade de cada um dos atributos. 
+Gere as medidas de tendência central (média, moda (quando for o caso), ponto médio e mediana), dispersão (amplitude, desvio padrão, variância, coeficiente de 
+variação) e forma (assimetria e curtose), para cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI). 
 
-**⚠️ Observação:** Os comentários sobre a variabilidade de cada atributo devem ser enviados em um arquivo PDF à parte. 
+*Entregável:* 
 
-**🟢 Exercício 5. Medidas de Associação** 
-*Especificação:* imprima os gráficos de dispersão entre os atributos Dia e Mês, DMC e DC, DMC e ISI, e DC e ISI. 
+Implemente um programa que calcule e imprima a tabela contendo todas as informações acima. 
 
-*Entregável:* implemente um programa que calcule e imprima os quatro gráficos de dispersão definidos acima. Baseado nos gráficos de dispersão, comente sobre a 
+**⚠️ Observação:** 
+
+A impressão da tabela pode ser em uma única tabela ou em três tabelas separadas. 
+
+# **🟢 Exercício 4. Diagrama de Caixa (box plot)** 
+
+*Especificação:* 
+
+Imprima os diagramas de caixa (box plot) de cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI). 
+
+*Entregável:* 
+
+Implemente um programa que calcule e imprima os diagramas de caixa (box plot) de cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI). Comente sobre a variabilidade de cada um dos atributos. 
+
+**⚠️ Observação:** 
+
+Os comentários sobre a variabilidade de cada atributo devem ser enviados em um arquivo PDF à parte. 
+
+# **🟢 Exercício 5. Medidas de Associação** 
+*Especificação:* 
+
+Imprima os gráficos de dispersão entre os atributos Dia e Mês, DMC e DC, DMC e ISI, e DC e ISI. 
+
+*Entregável:* 
+
+Implemente um programa que calcule e imprima os quatro gráficos de dispersão definidos acima. Baseado nos gráficos de dispersão, comente sobre a 
 associatividade entre cada um dos quatro pares de atributos (correlação positiva, correlação negativa, sem correlação, etc). 
 
-**⚠️ Observação:** Os comentários sobre a associatividade entre os quatro pares de atributos devem ser enviados em um arquivo PDF à parte. 
+**⚠️ Observação:** 
+
+Os comentários sobre a associatividade entre os quatro pares de atributos devem ser enviados em um arquivo PDF à parte. 
