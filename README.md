@@ -14,13 +14,13 @@ Trabalho de estatística – Nota 2
 
 # **🟢 Exercício 1. Distribuições de frequência** 
 
-🔎 *Especificação:* 
+**🔎 Especificação:** 
 
 Execute os passos para a geração de uma tabela resumo da distribuição de frequência de cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI).
 As colunas de cada tabela serão somente: classe, limite inferior, ponto médio, limite superior, frequência absoluta, frequência relativa, frequência acumulada (valor) e 
 frequência acumulada (percentual). 
 
-🆙 *Entregável:* 
+**🆙 Entregável:**
 
 Implemente um programa que imprima a tabela resumo da distribuição de frequência para cada um dos cinco atributos. Inclua todos os cálculos necessários no 
 programa. Assuma que a quantidade de classes é uma constante ou variável. 
@@ -34,7 +34,7 @@ programa. Assuma que a quantidade de classes é uma constante ou variável.
 
 # **🟢 Exercício 2. Visualização de dados** 
 
-🔎 *Especificação:* 
+**🔎 Especificação:** 
 
 Para cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI), gere os seguintes gráficos: 
 
@@ -46,18 +46,18 @@ Para cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI), gere os seguintes g
 
 Além dos gráficos, inclua comentários sobre as informações obtidas pelas análises dos gráficos, deixando claro o gráfico e a informação obtida. 
 
-🆙 *Entregável:* 
+**🆙 Entregável:**
 
 Implemente um programa que, baseado nos dados, plote os gráficos definidos acima. Os comentários sobre as informações obtidas pelas análises dos gráficos devem ser enviados em um arquivo PDF à parte. 
 
 # **🟢 Exercício 3. Medidas Resumo** 
 
-🔎 *Especificação:* 
+**🔎 Especificação:** 
 
 Gere as medidas de tendência central (média, moda (quando for o caso), ponto médio e mediana), dispersão (amplitude, desvio padrão, variância, coeficiente de 
 variação) e forma (assimetria e curtose), para cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI). 
 
-🆙 *Entregável:* 
+**🆙 Entregável:**
 
 Implemente um programa que calcule e imprima a tabela contendo todas as informações acima. 
 
@@ -67,11 +67,11 @@ A impressão da tabela pode ser em uma única tabela ou em três tabelas separad
 
 # **🟢 Exercício 4. Diagrama de Caixa (box plot)** 
 
-🔎 *Especificação:* 
+**🔎 Especificação:** 
 
 Imprima os diagramas de caixa (box plot) de cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI). 
 
-🆙 *Entregável:* 
+**🆙 Entregável:**
 
 Implemente um programa que calcule e imprima os diagramas de caixa (box plot) de cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI). Comente sobre a variabilidade de cada um dos atributos. 
 
@@ -81,11 +81,11 @@ Os comentários sobre a variabilidade de cada atributo devem ser enviados em um 
 
 # **🟢 Exercício 5. Medidas de Associação** 
 
-🔎 *Especificação:* 
+**🔎 Especificação:** 
 
 Imprima os gráficos de dispersão entre os atributos Dia e Mês, DMC e DC, DMC e ISI, e DC e ISI. 
 
-🆙 *Entregável:* 
+**🆙 Entregável:**
 
 Implemente um programa que calcule e imprima os quatro gráficos de dispersão definidos acima. Baseado nos gráficos de dispersão, comente sobre a 
 associatividade entre cada um dos quatro pares de atributos (correlação positiva, correlação negativa, sem correlação, etc). 
