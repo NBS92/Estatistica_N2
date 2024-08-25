@@ -14,11 +14,15 @@ Trabalho de estatística – Nota 2
 
 # **🟢 Exercício 1. Distribuições de frequência** 
 
-*Especificação:* Execute os passos para a geração de uma tabela resumo da distribuição de frequência de cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI).
+*Especificação:* 
+
+Execute os passos para a geração de uma tabela resumo da distribuição de frequência de cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI).
 As colunas de cada tabela serão somente: classe, limite inferior, ponto médio, limite superior, frequência absoluta, frequência relativa, frequência acumulada (valor) e 
 frequência acumulada (percentual). 
 
-*Entregável:* implemente um programa que imprima a tabela resumo da distribuição de frequência para cada um dos cinco atributos. Inclua todos os cálculos necessários no 
+*Entregável:* 
+
+Implemente um programa que imprima a tabela resumo da distribuição de frequência para cada um dos cinco atributos. Inclua todos os cálculos necessários no 
 programa. Assuma que a quantidade de classes é uma constante ou variável. 
 
 **⚠️ Observações:** 
