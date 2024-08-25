@@ -35,7 +35,19 @@ programa. Assuma que a quantidade de classes é uma constante ou variável.
 # **🟢 Exercício 2. Visualização de dados** 
 *Especificação:* 
 
-Para cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI), gere os seguintes gráficos: (i) histogramas das frequências relativas e absolutas; (ii) gráfico de polígonos; (iii) gráfico de setores; (iv) gráfico de Pareto; (v) gráfico de dispersão entre cada dois atributos, ou seja, DMC x Dia, DMC x Mês, DMC x DC, DMC x ISI, DC x Dia, DC x Mês, DC x ISI, ISI x Dia, ISI x Mês, Dia x Mês. Além dos gráficos, inclua comentários sobre as informações obtidas pelas análises dos gráficos, deixando claro o gráfico e a informação obtida. 
+Para cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI), gere os seguintes gráficos: 
+
+(i) histogramas das frequências relativas e absolutas; 
+
+(ii) gráfico de polígonos; 
+
+(iii) gráfico de setores; 
+
+(iv) gráfico de Pareto; 
+
+(v) gráfico de dispersão entre cada dois atributos, ou seja, DMC x Dia, DMC x Mês, DMC x DC, DMC x ISI, DC x Dia, DC x Mês, DC x ISI, ISI x Dia, ISI x Mês, Dia x Mês. 
+
+Além dos gráficos, inclua comentários sobre as informações obtidas pelas análises dos gráficos, deixando claro o gráfico e a informação obtida. 
 
 *Entregável:* 
 
