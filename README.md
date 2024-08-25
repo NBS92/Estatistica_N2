@@ -2,7 +2,9 @@
 
 Trabalho de estatística – Nota 2
 
-Observações gerais sobre este trabalho
+# Observações gerais sobre este trabalho
+
+--
 
 1. Este é um exercício de programação de análises de dados sobre bases de dados;
 2. Você poderá programar em qualquer linguagem ou ambiente que você queira (Python, Shell script, R). Entretanto, a linguagem Python já tem muitas bibliotecas prontas (sci-kit learn, numpy e pandas, por exemplo); 
