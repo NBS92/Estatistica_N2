@@ -4,8 +4,6 @@ Trabalho de estatística – Nota 2
 
 # Observações gerais sobre este trabalho
 
---
-
 1. Este é um exercício de programação de análises de dados sobre bases de dados;
 2. Você poderá programar em qualquer linguagem ou ambiente que você queira (Python, Shell script, R). Entretanto, a linguagem Python já tem muitas bibliotecas prontas (sci-kit learn, numpy e pandas, por exemplo); 
 3. Se for aluno de graduação, poderá fazer este trabalho individual, ou em duplas; se for aluno de pós-graduação terá que fazer o trabalho individual; 
@@ -14,7 +12,7 @@ Trabalho de estatística – Nota 2
 6. A primeira e segunda questão valem 3.0 pontos. A terceira questão vale 2.0 pontos. A quarta e quinta questão valem, cada uma, 1.0 ponto. 
 7. Considere a base de dados Fires, que apresenta dados meteorológicos para previsão de incêndios florestais em um parque, e que é composta por 517 objetos e 13 atributos. Serão utilizados cinco atributos, sendo dois categóricos (Mês e Dia) e três numéricos (DMC, DC e ISI). 
 
-**🟢 Exercício 1. Distribuições de frequência** 
+# **🟢 Exercício 1. Distribuições de frequência** 
 
 *Especificação:* Execute os passos para a geração de uma tabela resumo da distribuição de frequência de cada um dos cinco atributos (Dia, Mês, DMC, DC e ISI).
 As colunas de cada tabela serão somente: classe, limite inferior, ponto médio, limite superior, frequência absoluta, frequência relativa, frequência acumulada (valor) e 
