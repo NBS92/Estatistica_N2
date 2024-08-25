@@ -1,6 +1,4 @@
-# Estatistica_N2
-
-Trabalho de estatística – Nota 2
+# 📝 Trabalho de estatística – Nota 2
 
 # 🧐 Observações gerais sobre este trabalho
 
