@@ -26,9 +26,12 @@ programa. Assuma que a quantidade de classes é uma constante ou variável.
 
 **⚠️ Observações:** 
 
-• Para atributos categóricos, não há necessidade de executar todos os passos na construção da distribuição de frequência, sendo que a quantidade de categorias pode ser utilizada como número de classes, bastando determinar a frequência de cada categoria do atributo. 
+• Para atributos categóricos, não há necessidade de executar todos os passos na construção da distribuição de frequência, sendo que a quantidade de categorias pode ser utilizada como número de classes, bastando determinar a frequência de cada categoria do atributo.
+
 • Qualquer dúvida veja as Tabelas 3.4, 3.6 e 3.7 do livro texto; 
+
 • Note que as Tabelas 3.6 e 3.7 apresentam os resumos das distribuições de frequência dos atributos DMC e DC, respectivamente; 
+
 • Observe que não é necessário incluir a coluna "Fronteiras". 
 
 # **🟢 Exercício 2. Visualização de dados** 
